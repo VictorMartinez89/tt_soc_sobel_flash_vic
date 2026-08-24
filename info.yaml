@@ -40,3 +40,6 @@ pinout:
   uio[5]: "flash_mosi (out)"
   uio[6]: "flash_miso (in)"
   uio[7]: ""
+
+# Do not change!
+yaml_version: 6
